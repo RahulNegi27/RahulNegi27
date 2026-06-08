@@ -126,16 +126,6 @@ These experiences strengthened my skills in:
 
 ---
 
-## Achievements
-
-🏆 NSS "C" Certificate Holder
-
-🏆 Core Team Member – 24-Hour Hackathon (Co-Dev Club × Coding Ninjas)
-
-🏆 Participant in National Hackathons and Coding Competitions
-
----
-
 ### ✨
 
 > **"Building intelligent systems and transforming ideas into impactful solutions."**
