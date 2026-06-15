@@ -100,15 +100,11 @@ I'm a passionate and highly motivated Computer Science student interested in:
 
 ## Certifications & Learning
 
-### NPTEL Certifications
-
 ✔ Data Analytics with Python – IIT Roorkee
 
 ✔ Database Management Systems – IIT Madras
 
 ✔ Programming in Modern C++ – IIT Kanpur
-
-### Additional Learning
 
 ✔ Power BI for Data Analysis – Microsoft Learn
 
