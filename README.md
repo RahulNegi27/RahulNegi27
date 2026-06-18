@@ -5,6 +5,7 @@ Welcome to my GitHub account ✨
 ## About Me
 
 🎓 **B.Tech CSE (AI & Data Science)** @ Graphic Era Hill University
+
 📍 **Dehradun, India**
 
 I'm a passionate and highly motivated Computer Science student interested in:
