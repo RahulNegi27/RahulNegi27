@@ -21,7 +21,7 @@ I'm a passionate and highly motivated Computer Science student interested in:
 
 📧 Email: **[02rahulnegi27@gmail.com](mailto:02rahulnegi27@gmail.com)**
 
-💼 LinkedIn: **linkedin.com/in/rahul-singh-negi**
+💼 LinkedIn: **linkedin.com/in/rahulsinghnegi27**
 
 🐙 GitHub: **github.com/RahulNegi27**
 
