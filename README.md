@@ -1,4 +1,4 @@
-# Hi there 
+# Hi there 👋
 
 Welcome to my GitHub account ✨
 
@@ -21,9 +21,9 @@ I'm a passionate and highly motivated Computer Science student interested in:
 
 📧 Email: **[02rahulnegi27@gmail.com](mailto:02rahulnegi27@gmail.com)**
 
-💼 LinkedIn: **linkedin.com/in/rahulsinghnegi27**
+💼 LinkedIn: **[linkedin.com/in/rahulsinghnegi27](https://www.linkedin.com/in/rahulsinghnegi27/)**
 
-🐙 GitHub: **github.com/RahulNegi27**
+🐙 GitHub: **[github.com/RahulNegi27](https://github.com/RahulNegi27)**
 
 ---
 
